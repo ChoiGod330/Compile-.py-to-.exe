@@ -13,6 +13,7 @@ python --version
 2. Download the latest version of python
 3. Open the installer
 4. Ensure "Add Python to PATH" is checked during installation. <--IMPORTANT
+![image](https://github.com/ChoiGod330/Compile-.py-to-.exe/blob/main/Install%20Python.png)
 
 ### Install PyInstaller
 1. Press "Win" + "R" to open Utility
