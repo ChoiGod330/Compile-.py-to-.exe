@@ -1,7 +1,7 @@
 ## Tutorial
 ### Check if Python is installed (Skip if installed)
 1. Press "Win" + "R" to open Utility
-2. Type "cmd" to open CommandPrompt or "powershell" to open PowerShell
+2. Enter "cmd" to open CommandPrompt or "powershell" to open PowerShell
 3. Run the command below to check if python is installed:
 ```Shell
 python --version
@@ -16,7 +16,7 @@ python --version
 
 ### Install PyInstaller
 1. Press "Win" + "R" to open Utility
-2. Type "cmd" to open CommandPrompt or "powershell" to open PowerShell
+2. Enter "cmd" to open CommandPrompt or "powershell" to open PowerShell
 3. Install PyInstaller:
 ```Shell
 pip install pyinstaller
