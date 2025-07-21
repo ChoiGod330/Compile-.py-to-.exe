@@ -30,7 +30,7 @@ cd C:\[PATH]
 ```
 2. Run the command below:
 ```Shell
-pyinstaller --onefile open_translucenttb.py
+pyinstaller --onefile [FILENAME.py]
 ```
 3. The .exe file will be created in the path
 ```Shell
