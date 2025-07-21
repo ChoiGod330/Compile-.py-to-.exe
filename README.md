@@ -1,11 +1,3 @@
-## Compile-.py-to-.exe
-
-This is a tutorial for compiling .py to .exe
-
-Written by @ChoiGod330
-
-
-
 ## Tutorial
 ### Check if Python is installed (Skip if installed)
 1. Press "Win" + "R" to open Utility
@@ -44,3 +36,7 @@ pyinstaller --onefile open_translucenttb.py
 ```Shell
 C:\[PATH]\dist\
 ```
+
+
+
+This is a tutorial for compiling .py to .exe written by @ChoiGod330
