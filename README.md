@@ -34,7 +34,7 @@ pyinstaller --onefile [FILENAME.py]
 ```
 3. The .exe file will be created in the path
 ```Shell
-C:\[PATH]\dist\
+C:\[PATH]\dist\[FILENAME.exe]
 ```
 
 
